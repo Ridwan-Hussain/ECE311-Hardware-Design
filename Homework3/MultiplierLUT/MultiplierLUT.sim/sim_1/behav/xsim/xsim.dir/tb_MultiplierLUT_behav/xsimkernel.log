@@ -1,0 +1,4 @@
+Running: xsim.dir/tb_MultiplierLUT_behav/xsimk -simmode gui -wdb tb_MultiplierLUT_behav.wdb -simrunnum 0 -socket 42177
+Design successfully loaded
+Design Loading Memory Usage: 33328 KB (Peak: 33448 KB)
+Design Loading CPU Usage: 10 ms

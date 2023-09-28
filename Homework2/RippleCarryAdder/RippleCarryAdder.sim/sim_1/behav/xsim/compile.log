@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/afs/ee.cooper.edu/user/r/ridwan.hussain/HardwareDesign/Homework2/RippleCarryAdder/RippleCarryAdder.srcs/sources_1/new/RippleCarryAdder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FullAdder
+INFO: [VRFC 10-311] analyzing module RippleCarryAdder
+INFO: [VRFC 10-2263] Analyzing Verilog file "/afs/ee.cooper.edu/user/r/ridwan.hussain/HardwareDesign/Homework2/RippleCarryAdder/RippleCarryAdder.srcs/sources_1/new/RippleCarryAdder_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RippleCarryAdder_tb

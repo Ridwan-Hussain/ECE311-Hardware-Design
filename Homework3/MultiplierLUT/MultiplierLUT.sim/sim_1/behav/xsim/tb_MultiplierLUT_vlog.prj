@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../MultiplierLUT.srcs/sources_1/new/MultiplierLUT.v" \
+"../../../../MultiplierLUT.srcs/sim_1/new/tb_MultiplierLUT.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

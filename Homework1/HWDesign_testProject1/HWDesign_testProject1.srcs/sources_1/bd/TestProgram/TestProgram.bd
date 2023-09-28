@@ -1,0 +1,93 @@
+{
+  "design": {
+    "design_info": {
+      "boundary_crc": "0x431D7C3B431D7C3B",
+      "device": "xc7z020clg484-1",
+      "name": "TestProgram",
+      "synth_flow_mode": "Hierarchical",
+      "tool_version": "2019.1",
+      "validated": "true"
+    },
+    "design_tree": {
+      "util_vector_logic_0": "",
+      "util_vector_logic_1": ""
+    },
+    "ports": {
+      "A": {
+        "direction": "I",
+        "left": "0",
+        "right": "0"
+      },
+      "B": {
+        "direction": "I",
+        "left": "0",
+        "right": "0"
+      },
+      "C": {
+        "direction": "I",
+        "left": "0",
+        "right": "0"
+      },
+      "D": {
+        "direction": "O",
+        "left": "0",
+        "right": "0"
+      }
+    },
+    "components": {
+      "util_vector_logic_0": {
+        "vlnv": "xilinx.com:ip:util_vector_logic:2.0",
+        "xci_name": "TestProgram_util_vector_logic_0_0",
+        "parameters": {
+          "C_SIZE": {
+            "value": "1"
+          }
+        }
+      },
+      "util_vector_logic_1": {
+        "vlnv": "xilinx.com:ip:util_vector_logic:2.0",
+        "xci_name": "TestProgram_util_vector_logic_1_0",
+        "parameters": {
+          "C_OPERATION": {
+            "value": "or"
+          },
+          "C_SIZE": {
+            "value": "1"
+          }
+        }
+      }
+    },
+    "nets": {
+      "util_vector_logic_1_Res": {
+        "ports": [
+          "util_vector_logic_1/Res",
+          "util_vector_logic_0/Op1"
+        ]
+      },
+      "Op1_0_1": {
+        "ports": [
+          "A",
+          "util_vector_logic_1/Op1"
+        ]
+      },
+      "Op2_0_1": {
+        "ports": [
+          "B",
+          "util_vector_logic_1/Op2"
+        ]
+      },
+      "Op2_0_2": {
+        "ports": [
+          "C",
+          "util_vector_logic_0/Op2"
+        ]
+      },
+      "util_vector_logic_0_Res": {
+        "ports": [
+          "util_vector_logic_0/Res",
+          "D"
+        ]
+      }
+    }
+  }
+}

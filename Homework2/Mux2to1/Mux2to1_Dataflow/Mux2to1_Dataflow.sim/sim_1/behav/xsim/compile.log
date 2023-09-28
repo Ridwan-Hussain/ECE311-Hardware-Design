@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/afs/ee.cooper.edu/user/r/ridwan.hussain/HardwareDesign/Homework2/Mux2to1/Mux2to1_Dataflow/Mux2to1_Dataflow.srcs/sources_1/new/Mux2to1_Dataflow.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mux2to1_Dataflow
+INFO: [VRFC 10-2263] Analyzing Verilog file "/afs/ee.cooper.edu/user/r/ridwan.hussain/HardwareDesign/Homework2/Mux2to1/Mux2to1_Dataflow/Mux2to1_Dataflow.srcs/sources_1/new/Mux2to1_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mux2to1_tb

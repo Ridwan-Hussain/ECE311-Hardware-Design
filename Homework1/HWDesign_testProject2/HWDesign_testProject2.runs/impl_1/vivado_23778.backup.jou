@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Sep 14 19:51:50 2023
+# Process ID: 23778
+# Current directory: /afs/ee.cooper.edu/user/r/ridwan.hussain/HardwareDesign/Homework1/HWDesign_testProject2/HWDesign_testProject2.runs/impl_1
+# Command line: vivado -log tutorial.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source tutorial.tcl -notrace
+# Log file: /afs/ee.cooper.edu/user/r/ridwan.hussain/HardwareDesign/Homework1/HWDesign_testProject2/HWDesign_testProject2.runs/impl_1/tutorial.vdi
+# Journal file: /afs/ee.cooper.edu/user/r/ridwan.hussain/HardwareDesign/Homework1/HWDesign_testProject2/HWDesign_testProject2.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source tutorial.tcl -notrace

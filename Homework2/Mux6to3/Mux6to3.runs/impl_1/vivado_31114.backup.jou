@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Sep 21 20:34:11 2023
+# Process ID: 31114
+# Current directory: /afs/ee.cooper.edu/user/r/ridwan.hussain/HardwareDesign/Homework2/Mux6to3/Mux6to3.runs/impl_1
+# Command line: vivado -log Mux6to3.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Mux6to3.tcl -notrace
+# Log file: /afs/ee.cooper.edu/user/r/ridwan.hussain/HardwareDesign/Homework2/Mux6to3/Mux6to3.runs/impl_1/Mux6to3.vdi
+# Journal file: /afs/ee.cooper.edu/user/r/ridwan.hussain/HardwareDesign/Homework2/Mux6to3/Mux6to3.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source Mux6to3.tcl -notrace

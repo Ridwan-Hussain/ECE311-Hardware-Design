@@ -1,0 +1,18 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+LED output matched at                60000
+
+LED output matched at               120000
+
+LED output matched at               180000
+
+LED output mis-matched               240000, expected x, actual 1
+
+LED output mis-matched               300000, expected 1, actual 0
+
+LED output matched at               360000
+
+LED output mis-matched               420000, expected 1, actual 0
+
+LED output matched at               480000
+

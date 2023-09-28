@@ -1,0 +1,14 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: /opt/xilinx/Vivado/2019.1/bin/unwrapped/lnx64.o/xelab -wto 18d4d6bd85b64fc58e72f27cba70d384 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot RippleCarryAdder_tb_behav xil_defaultlib.RippleCarryAdder_tb xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.FullAdder
+Compiling module xil_defaultlib.RippleCarryAdder
+Compiling module xil_defaultlib.RippleCarryAdder_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot RippleCarryAdder_tb_behav

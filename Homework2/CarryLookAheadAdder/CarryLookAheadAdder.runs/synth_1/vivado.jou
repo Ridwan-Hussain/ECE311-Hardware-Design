@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Sep 21 20:49:02 2023
+# Process ID: 13948
+# Current directory: /afs/ee.cooper.edu/user/r/ridwan.hussain/HardwareDesign/Homework2/CarryLookAheadAdder/CarryLookAheadAdder/CarryLookAheadAdder.runs/synth_1
+# Command line: vivado -log CarryLookAheadAdder.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source CarryLookAheadAdder.tcl
+# Log file: /afs/ee.cooper.edu/user/r/ridwan.hussain/HardwareDesign/Homework2/CarryLookAheadAdder/CarryLookAheadAdder/CarryLookAheadAdder.runs/synth_1/CarryLookAheadAdder.vds
+# Journal file: /afs/ee.cooper.edu/user/r/ridwan.hussain/HardwareDesign/Homework2/CarryLookAheadAdder/CarryLookAheadAdder/CarryLookAheadAdder.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source CarryLookAheadAdder.tcl -notrace

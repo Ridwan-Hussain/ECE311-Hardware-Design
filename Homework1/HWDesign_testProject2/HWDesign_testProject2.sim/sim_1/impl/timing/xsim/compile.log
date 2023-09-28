@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/afs/ee.cooper.edu/user/r/ridwan.hussain/HardwareDesign/Homework1/HWDesign_testProject2/HWDesign_testProject2.sim/sim_1/impl/timing/xsim/TestTutorial_time_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tutorial
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "/afs/ee.cooper.edu/user/r/ridwan.hussain/HardwareDesign/Homework1/HWDesign_testProject2/HWDesign_testProject2.srcs/sim_1/new/testBench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TestTutorial

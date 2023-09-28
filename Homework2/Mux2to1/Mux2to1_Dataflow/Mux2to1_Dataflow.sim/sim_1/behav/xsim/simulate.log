@@ -1,0 +1,12 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+S=0, D0=00, D1=00, DO=00
+S=0, D0=01, D1=00, DO=01
+S=0, D0=01, D1=01, DO=01
+S=0, D0=11, D1=00, DO=11
+S=0, D0=10, D1=11, DO=10
+S=1, D0=10, D1=11, DO=11
+S=1, D0=01, D1=11, DO=11
+S=1, D0=01, D1=01, DO=01
+S=1, D0=11, D1=00, DO=00
+S=1, D0=10, D1=11, DO=11

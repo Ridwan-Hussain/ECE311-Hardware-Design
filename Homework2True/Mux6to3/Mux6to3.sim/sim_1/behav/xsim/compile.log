@@ -1,0 +1,9 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/afs/ee.cooper.edu/user/r/ridwan.hussain/HardwareDesign/Homework2True/Mux6to3/Mux6to3.srcs/sources_1/new/Mux6to3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mux6to3
+INFO: [VRFC 10-311] analyzing module Mux2to1_GateLevel
+INFO: [VRFC 10-311] analyzing module Mux2to1_Dataflow
+INFO: [VRFC 10-311] analyzing module Mux2to1_Behaviorial
+INFO: [VRFC 10-2263] Analyzing Verilog file "/afs/ee.cooper.edu/user/r/ridwan.hussain/HardwareDesign/Homework2True/Mux6to3/Mux6to3.srcs/sources_1/new/Mux6to3_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mux6to3_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "/afs/ee.cooper.edu/user/r/ridwan.hussain/HardwareDesign/Homework2True/Mux6to3/Mux6to3.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
