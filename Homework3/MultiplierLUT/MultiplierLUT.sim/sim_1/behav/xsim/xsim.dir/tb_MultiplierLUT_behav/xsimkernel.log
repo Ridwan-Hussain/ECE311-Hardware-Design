@@ -2,3 +2,6 @@ Running: xsim.dir/tb_MultiplierLUT_behav/xsimk -simmode gui -wdb tb_MultiplierLU
 Design successfully loaded
 Design Loading Memory Usage: 33328 KB (Peak: 33448 KB)
 Design Loading CPU Usage: 10 ms
+Simulation completed
+Simulation Memory Usage: 115064 KB (Peak: 172596 KB)
+Simulation CPU Usage: 10 ms
